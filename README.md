@@ -1,2 +1,1 @@
-# training-demo
-This repo is to know how to work on the github web console.
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even  [link to Google!](https://www.google.com/)
